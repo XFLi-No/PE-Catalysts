@@ -1,2 +1,2 @@
 # PE-Catalysts
-我们所筛选的高活性聚乙烯催化剂结构及其聚合条件。
+The structures of the high-activity polyethylene catalysts screened in this study and their corresponding polymerization conditions; the GNN and CNN codes used in this work.
